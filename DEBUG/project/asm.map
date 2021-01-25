@@ -1,0 +1,27 @@
+CodeVisionAVR C Compiler V1.24.8d Professional
+(C) Copyright 1998-2006 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: D:\siddarth\ASL\DEBUG\project-16th dec\asm.c
+Global variables memory map:
+
+Variable                          Address   Size
+count                                                                   R4      1
+data                                                                    R5      1
+i                                                                       R6      1
+rx_buffer                                                             260h      8
+rx_wr_index                                                             R7      1
+rx_rd_index                                                             R8      1
+rx_counter                                                              R9      1
+rx_buffer_overflow                                                    R2.0    1/8
+tx_buffer                                                             268h      8
+tx_wr_index                                                            R10      1
+tx_rd_index                                                            R11      1
+tx_counter                                                             R12      1
+pot                                                                R13,R14      2
+x                                                                     270h      2
+y                                                                     272h      2
+z                                                                     274h      2
+x1                                                                    276h      2
+y1                                                                    278h      2
+z1                                                                    27Ah      2

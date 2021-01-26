@@ -20,7 +20,7 @@
 
 This device works using UART protocols and also uses the concept of interrupts to switch between modes with the help of the inbuilt push button of the microcontroller.
 
-** 1. Dumb People Aider Mode **
+**1. Dumb People Aider Mode**
 
 - This mode is enabled when the push button of the microcontroller is pressed once. 
 - Here the dumb person holds one sensor in each hand and depending on the patterns made by the orientation combinations (3-dimensional) of the 2 sensors, the corresponding data is sent to the microcontrollor in the form of analog signals.
@@ -31,7 +31,7 @@ This device works using UART protocols and also uses the concept of interrupts t
 
 NOTE: This mode is not based on American sign Language (ASL), we are just using an android ASL application which is available on apk sites. The sign language rules are defined by us and it can be changed by just modifying the code depending on users wish.
 
-** 2.Blind people Aider Mode **
+**2. Blind people Aider Mode**
 
 - This mode is enabled when the push button of the microcontroller is pressed twice.
 - Here the blind person hold one vibrator in each hand.
